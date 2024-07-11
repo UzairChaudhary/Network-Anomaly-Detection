@@ -41,6 +41,9 @@ This repository contains a Flask server for anomalies detection.
 1. Comparison of Z-Score and Isolation Forest
 ![alt text](image.png)
 ![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 2. Detect Attack Type
 ![alt text](image-1.png)
