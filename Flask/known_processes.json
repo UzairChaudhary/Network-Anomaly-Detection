@@ -1,0 +1,16 @@
+[
+    "System",
+    "svchost.exe",
+    "explorer.exe",
+    "chrome.exe",
+    "firefox.exe",
+    "python.exe",
+    "node.exe",
+    "mysqld.exe",
+    "apache2",
+    "nginx",
+    "sshd",
+    "bash",
+    "ps",
+    "top"
+]
